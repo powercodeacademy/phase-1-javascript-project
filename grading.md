@@ -4,35 +4,34 @@ As you complete Phase 1 of the boot camp and prepare for your JavaScript project
 
 Project Submission
 
-	•	Submission Deadline: Ensure your project repo link is submitted before your scheduled review time.
-	•	Project Repository: Your repository should be well-organized, including a README file that provides an overview of the project, instructions for setup, and any other relevant information.
+* Submission Deadline: Ensure your project repo link is submitted before your scheduled review time.
+* Project Repository: Your repository should be well-organized, including a README file that provides an overview of the project, instructions for setup, and any other relevant information.
 
 Code Review Preparation
 
-	•	Familiarity with Requirements: Review the project requirements and ensure your project meets all outlined criteria.
-	•	Documentation: Ensure your code is well-documented and your commit messages are clear and descriptive.
+* Familiarity with Requirements: Review the project requirements and ensure your project meets all outlined criteria.
+* Documentation: Ensure your code is well-documented and your commit messages are clear and descriptive.
 
 Code Review Session
 
-	•	Project Walkthrough: Be prepared to walk through your code from the execution point to the exit point. You should be able to explain the flow of your application clearly.
-	•	Technical Verbiage: Use correct technical terminology when describing your code. If you are unsure about certain terms, your reviewer will help you reframe your explanations.
+* Project Walkthrough: Be prepared to walk through your code from the execution point to the exit point. You should be able to explain the flow of your application clearly.
+* Technical Verbiage: Use correct technical terminology when describing your code. If you are unsure about certain terms, your reviewer will help you reframe your explanations.
 
 Demo and Feedback
-
-	•	Project Demonstration: You will demo your project, showcasing the key features and functionalities. Be prepared to discuss how you designed and architected these features.
-	•	Code Refactoring: After the demo, your reviewer will address any issues and guide you through refactoring. Pay attention to their suggestions and ask questions if you need clarification.
+* Project Demonstration: You will demo your project, showcasing the key features and functionalities. Be prepared to discuss how you designed and architected these features.
+* Code Refactoring: After the demo, your reviewer will address any issues and guide you through refactoring. Pay attention to their suggestions and ask questions if you need clarification.
 
 Grading Criteria
 
-	•	Functionality: Does your project meet all the requirements? Are all features working as intended?
-	•	Code Quality: Is your code clean, well-structured, and free of obvious bugs? Have you followed best practices?
-	•	Problem-Solving Skills: How well have you integrated JavaScript with external APIs? Have you demonstrated effective debugging and troubleshooting skills?
-	•	Collaboration and Communication: Are you able to explain your work clearly? Have you collaborated effectively with your peers?
+* Functionality: Does your project meet all the requirements? Are all features working as intended?
+* Code Quality: Is your code clean, well-structured, and free of obvious bugs? Have you followed best practices?
+* Problem-Solving Skills: How well have you integrated JavaScript with external APIs? Have you demonstrated effective debugging and troubleshooting skills?
+* Collaboration and Communication: Are you able to explain your work clearly? Have you collaborated effectively with your peers?
 
 Areas of Focus
 
-	•	JavaScript Knowledge: Be prepared to answer questions about JavaScript terminology and concepts as listed in the project review expectations.
-	•	Feedback Implementation: Show that you can take feedback constructively and apply it to improve your project.
+* JavaScript Knowledge: Be prepared to answer questions about JavaScript terminology and concepts as listed in the project review expectations.
+* Feedback Implementation: Show that you can take feedback constructively and apply it to improve your project.
 
 Overall Assessment
 
