@@ -176,6 +176,30 @@ You can consult the [json-server docs][] for more information.
 
 [json-server docs]: https://www.npmjs.com/package/json-server
 
+## <a id="what-to-expect-in-your-project-review"></a>What To Expect In Your Project Review
+
+### What should you be prepared for in Project Review?
+
+During your project review, be prepared to:
+
+1. Explain your code from execution point to exit point. Use the best technical vocabulary you can.
+2. Live code. This could be refactoring, adding a new feature, or both.
+3. Answer questions about your knowledge of _JavaScript Fundamentals_.
+
+In particular, the JavaScript Fundamentals concepts your reviewer may ask about include:
+
+- variables
+- data structures
+- functions
+- hoisting
+- scope
+- context
+- `this`
+- closures
+- ES6 syntax
+- `let`, `const`
+- arrow functions
+
 ## Resources
 
 - [Public APIs](https://github.com/public-apis/public-apis)
